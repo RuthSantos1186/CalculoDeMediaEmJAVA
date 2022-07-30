@@ -7,7 +7,7 @@ public class MeuCursoJDev {
 	/* Main é um método auto executável em java */
 	public static void main(String[] args) {
 
-		/* Criando um programa de cálculo de média a*/
+		/* Criando um programa de cálculo de média */
 
 		String nota1 = JOptionPane.showInputDialog("informe a nota 1");
 		String nota2 = JOptionPane.showInputDialog("informe a nota 2");
